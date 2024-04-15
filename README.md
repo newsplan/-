@@ -1,4 +1,3 @@
-![image](https://github.com/newsplan/Audio-and-video-classics/assets/83848374/91f8ed6c-6f69-4d40-afea-aea35471e07e)---
 title: 音视频经典书籍精选
 categories: 音视频书籍
 date: 2023-08-20 13:35:05
