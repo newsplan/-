@@ -76,7 +76,19 @@ where: 百度网盘 or 阿里云盘
 
 ### <span id="5、android">5、android</span>
 
-[计算机图形学编程（使用OpenGL和C++）（第2版）](链接：https://pan.baidu.com/s/1xDDwTfJRiH-o4fvoahv6-g 提取码：8mqt)
+- [计算机图形学编程（使用OpenGL和C++）（第2版）](链接：https://pan.baidu.com/s/1xDDwTfJRiH-o4fvoahv6-g 提取码：8mqt)
+
+- [深入理解OpenGL,WebGL和OpenGL ES (里奇奥)](链接：https://pan.baidu.com/s/1pI7G3YFa_TzzoZ0u-me9vw 提取码：x3r5)
+
+- [OpenGL编程指南（第八版）](链接：https://pan.baidu.com/s/1hx2W0bYXKT4bzwJi-JZnZg 提取码：w3q9)
+
+- [OpenGL编程指南（原书第9版）](链接：https://pan.baidu.com/s/1m4f5kvk_qkIOEwWSG62dwg 提取码：tpo2)
+
+- [OpenGL ES 应用开发实践指南 Android卷 (KevinBrothaler)](链接：https://pan.baidu.com/s/1ok8qVBdzUij6exiQ7bww1w 提取码：aagl)
+
+- [链接：https://pan.baidu.com/s/1fh3DSpqGagGvOz8QF-E1Hw 提取码：fgxb](链接：https://pan.baidu.com/s/1PR659k5zu9g89397JLIeBQ 提取码：iake)
+
+- [OpenGL超级宝典（第5版）（异步图书） (Richard S. Wright  Jr.Nicholas Haemel)](链接：https://pan.baidu.com/s/1snPRTYlvpKyU-IV8aLYNUA 提取码：1ssu)
 
 ### <span id="6、opencv">6、opencv</span>
 
